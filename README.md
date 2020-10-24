@@ -1,1 +1,0 @@
-# SQL_x5homework
